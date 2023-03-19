@@ -1,0 +1,21 @@
+{
+  "name": "darkpurple",
+  "displayName": "DarkPurple",
+  "description": "Theme Dark and Purple for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkPurple",
+        "uiTheme": "hc-black",
+        "path": "./themes/DarkPurple-color-theme.json"
+      }
+    ]
+  }
+}
